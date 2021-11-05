@@ -4,4 +4,5 @@ public interface Switchable {
     String NAME = "TTT";
     void switchOn();
     void switchOff();
+    // комментарий добавил
 }
